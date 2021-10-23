@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+
+html {
+	background-color: #DCDCDC;
+	font-family: 'Ubuntu', sans-serif;
+	text-align: center;
+
+
+}
+.card {
+    background-color: #FFFAFA;
+    box-shadow: 0 3px 4px 0 rgba(0,0,0,0.2);
+    border: none;
+    color: black;
+		font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+		width: 200px;
+		height: 150px;
+    margin: 30px 10px;
+    cursor: pointer;
+}
+
+.container{
+    background-color: #FFFFFF;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border: none;
+    color: black;
+		font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+		width: 1400px;
+		height: 260px;
+    margin: 30px 10px;
+    cursor: pointer;
+}
